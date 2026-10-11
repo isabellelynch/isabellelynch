@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=3500&pause=1200&color=D4789A&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Isabelle;Software+Development+student+%40+MTU+Kerry;Baker+turned+developer+%F0%9F%A7%81;Incoming+placement+%40+SMBC+%E2%80%94+Jan+2027" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/isabelle-lynch-657756330"><img src="https://img.shields.io/badge/LinkedIn-F8D7E3?style=for-the-badge&logo=linkedin&logoColor=5A3E47" alt="LinkedIn" /></a>
   <a href="mailto:isabellemarielynch@gmail.com"><img src="https://img.shields.io/badge/Email-F8D7E3?style=for-the-badge&logo=gmail&logoColor=5A3E47" alt="Email" /></a>
 </p>
@@ -17,7 +11,7 @@
 
 ### About me
 
-I'm a third-year **BSc (Hons) Software Development** student at **MTU Kerry** with a GPA of **92.66%**. I love problem-solving, clean code, and learning something new every week.
+I'm a third-year **BSc (Hons) Software Development** student at **MTU Kerry** with a GPA of **92.66%**. I love problem-solving, clean code and learning something new every week.
 
 - Spent summer 2026 as a **Software Development Intern at Fexco Tech**
 - Founded and still run **Cakes by Isabelle**
