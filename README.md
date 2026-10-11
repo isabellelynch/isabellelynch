@@ -15,19 +15,19 @@
 
 ---
 
-### 🌸 About me
+### About me
 
 I'm a third-year **BSc (Hons) Software Development** student at **MTU Kerry** with a GPA of **92.66%**. I love problem-solving, clean code, and learning something new every week.
 
-- 💼 Spent summer 2026 as a **Software Development Intern at Fexco Tech**
-- 🎂 Founded and still run **Cakes by Isabelle**, my own home bakery business, since 2015
-- 👩‍🏫 Peer Programming mentor for first-year students & former **CoderDojo** volunteer
-- 🏃‍♀️ Marathon runner (Manchester, Limerick and more) and qualified personal trainer
-- 🎯 Starting my **work placement at SMBC in January 2027**
+- Spent summer 2026 as a **Software Development Intern at Fexco Tech**
+- Founded and still run **Cakes by Isabelle**
+- Peer Programming mentor for first-year students & former **CoderDojo** volunteer
+- Marathon runner (Manchester, Limerick and more) and qualified personal trainer
+- Starting my **work placement at SMBC in January 2027**
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 **Languages**
 
@@ -54,7 +54,7 @@ I'm a third-year **BSc (Hons) Software Development** student at **MTU Kerry** wi
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=isabellelynch&show_icons=true&hide_border=true&bg_color=FFF6F9&title_color=D4789A&text_color=5A3E47&icon_color=E8A3B9&rank_icon=percentile" alt="GitHub stats" />
