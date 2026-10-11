@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592 110" width="592" height="110">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FFF6F9"/><stop offset="55%" stop-color="#FBE3EC"/><stop offset="100%" stop-color="#F6D0DE"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+<style>
+.lab{font-family:-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:14px;letter-spacing:4px;fill:#9C6B7D}
+.val{font-family:-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:20px;font-weight:600;fill:#B85C7E}
+.arrow{font-family:-apple-system,'Segoe UI',Arial,sans-serif;font-size:24px;fill:#D4789A}
+.spark{fill:#E8A3B9;transform-box:fill-box;transform-origin:center;animation:tw 3s ease-in-out infinite}
+.s2{animation-delay:1.5s}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.7)}50%{opacity:1;transform:scale(1)}}
+</style></defs>
+<rect width="592" height="110" rx="24" fill="url(#bg)"/>
+<circle cx="110" cy="20" r="110" fill="url(#glow)"/>
+<circle cx="66" cy="55" r="30" fill="#FFFFFF" fill-opacity="0.8" stroke="#F0B8CB" stroke-width="1.2"/>
+<text x="66" y="64" text-anchor="middle" style="font-family:Arial,Helvetica,sans-serif;font-weight:700;font-size:24px;fill:#B85C7E">in</text>
+<text x="118" y="46" class="lab">LINKEDIN</text>
+<text x="118" y="76" class="val">Let's connect</text>
+<text x="540" y="64" class="arrow" text-anchor="middle">→</text>
+<path class="spark " d="M500 22 L502.5 27.5 L508 30 L502.5 32.5 L500 38 L497.5 32.5 L492 30 L497.5 27.5Z"/>
+</svg>
