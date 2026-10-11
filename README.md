@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isabelle-lynch-657756330/"><img src="https://img.shields.io/badge/LinkedIn-F8D7E3?style=for-the-badge&logo=linkedin&logoColor=5A3E47" alt="LinkedIn" /></a>
-  <a href="mailto:isabellemarielynch@gmail.com"><img src="https://img.shields.io/badge/Email-F8D7E3?style=for-the-badge&logo=gmail&logoColor=5A3E47" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/isabelle-lynch-657756330/"><img src="./assets/linkedin.svg" alt="LinkedIn: let's connect" width="49%" /></a>
+  <a href="mailto:isabellemarielynch@gmail.com"><img src="./assets/email.svg" alt="Email: isabellemarielynch@gmail.com" width="49%" /></a>
 </p>
 
 <p align="center">
