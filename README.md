@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="./assets/linkedin.svg" alt="LinkedIn: let's connect" width="49%" /></a>
+  <a href="https://www.linkedin.com/in/isabelle-lynch-657756330/"><img src="./assets/linkedin.svg" alt="LinkedIn: let's connect" width="49%" /></a>
   <a href="mailto:isabellemarielynch@gmail.com"><img src="./assets/email.svg" alt="Email: isabellemarielynch@gmail.com" width="49%" /></a>
 </p>
 
